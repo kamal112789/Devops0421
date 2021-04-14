@@ -1,2 +1,3 @@
 This is file for GIT training.
 Updated the file with another heading.
+we are about to attend webinars as well.
